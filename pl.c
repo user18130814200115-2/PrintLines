@@ -4,7 +4,6 @@
 #include <getopt.h>
 
 #define LSIZ 900 
-#define RSIZ 900 
 
 int getNumberOfLines(FILE *fp) {
     int numberOfLines = 0;
